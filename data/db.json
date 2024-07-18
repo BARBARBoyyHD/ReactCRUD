@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "uwi123",
+      "email": "uwi@gmail.com",
+      "age": "21",
+      "id": "1d03"
+    },
+    {
+      "name": "pito123",
+      "email": "pito@gmail.com",
+      "age": "19",
+      "id": "6db0"
+    },
+    {
+      "name": "anjel123",
+      "email": "anjelina@gmail.com",
+      "age": "20",
+      "id": "fb5c"
+    }
+  ]
+}
